@@ -30,7 +30,7 @@ function Wraper() {
 
         <section id="two" className="wrapper alt spotlight style2">
           <div className="inner">
-            <Link to="/services" className="image">
+            <Link onClick={scrollToTop} to="/services" className="image">
               <img src="images/planner.jpg" alt="" />
             </Link>
             <div className="content">
