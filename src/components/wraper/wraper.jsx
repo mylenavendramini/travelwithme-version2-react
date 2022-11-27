@@ -18,10 +18,10 @@ function Wraper() {
               <h2 className="major">Hello! 👋</h2>
               <p>
                 My name is Lola! I've always been addicted to traveling and
-                today I can use this passion to help you make your dream come
-                true. Don't worry! I will plan every step for you, since months
-                before your trip. You won't need to think about places to visit,
-                hotel location and not even where to eat. It's time to relax and
+                today I use my passion to help you make your dream come true.
+                Don't worry! I will plan every step for you, months in advance
+                of your trip. You won't have to think about places to visit,
+                location of your hotel or where to eat. It's time to relax and
                 enjoy!
               </p>
             </div>
@@ -36,8 +36,8 @@ function Wraper() {
             <div className="content">
               <h2 className="major">All kind of services</h2>
               <p>
-                I make personalized travel intineraries and travel finalcial
-                planning. Also, I show you the best way to get travel insurance.
+                I do custom travel itineraries and travel financial planning.
+                Plus, I show you the best way to get travel insurance.
               </p>
               <Link onClick={scrollToTop} to={"/services"} className="special">
                 Know more

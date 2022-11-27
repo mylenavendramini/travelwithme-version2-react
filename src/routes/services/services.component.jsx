@@ -30,7 +30,7 @@ function Services() {
                 className="services--tab services--tab--1 services--tab--active"
                 data-tab="1"
               >
-                <h1>Personalized travel itinerary</h1>
+                <h1>Custom travel itinerary</h1>
               </button>
               <button className="services--tab services--tab--2" data-tab="2">
                 <h1>Travel financial planning</h1>
