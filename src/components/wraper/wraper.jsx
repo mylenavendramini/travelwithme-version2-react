@@ -30,9 +30,9 @@ function Wraper() {
 
         <section id="two" className="wrapper alt spotlight style2">
           <div className="inner">
-            <a href="/services" className="image">
+            <Link to="/services" className="image">
               <img src="images/planner.jpg" alt="" />
-            </a>
+            </Link>
             <div className="content">
               <h2 className="major">All kind of services</h2>
               <p>
