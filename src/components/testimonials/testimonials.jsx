@@ -56,43 +56,12 @@ function Testimonials() {
       <section className="features">
         <article>
           <a href="/" className="image">
-            <img src="images/person1.png" alt="" />
-          </a>
-          <h3 className="major">Amanda Dias</h3>
-          <p>
-            Lola helped me to plan my first trip alone. I was a little worry in
-            the beggining, but everything worked so well. Lola things about all
-            the details. I will definely plan more trips with her.
-          </p>
-          <Link onClick={scrollToTop} to={"/services"} className="special">
-            Know more
-          </Link>
-        </article>
-        <article>
-          <a href="/" className="image">
-            <img src="images/person2.png" alt="" />
-          </a>
-          <h3 className="major">Mike Wu</h3>
-          <p>
-            I needed to travel with a little money and Lola helped me to make it
-            real. With a small budget I visited 3 different cities in Spain and
-            that was awesome!
-          </p>
-          <Link onClick={scrollToTop} to={"/services"} className="special">
-            Know more
-          </Link>
-        </article>
-        <article>
-          <a href="/" className="image">
             <img src="images/person4.png" alt="" />
           </a>
           <h3 className="major">Claire Fox</h3>
           <p>
             Think about the best trip you could have. Hire Lola. It will happen!
           </p>
-          <Link onClick={scrollToTop} to={"/services"} className="special">
-            Know more
-          </Link>
         </article>
         <article>
           <a href="/" className="image">
@@ -104,9 +73,28 @@ function Testimonials() {
             make it true. I have so many special memories with him now and
             everything because of Lola.
           </p>
-          <Link onClick={scrollToTop} to={"/services"} className="special">
-            Know more
-          </Link>
+        </article>
+        <article>
+          <a href="/" className="image">
+            <img src="images/person1.png" alt="" />
+          </a>
+          <h3 className="major">Amanda Dias</h3>
+          <p>
+            Lola helped me to plan my first trip alone. I was a little worry in
+            the beggining, but everything worked so well. Lola things about all
+            the details. I will definely plan more trips with her.
+          </p>
+        </article>
+        <article>
+          <a href="/" className="image">
+            <img src="images/person2.png" alt="" />
+          </a>
+          <h3 className="major">Mike Wu</h3>
+          <p>
+            I needed to travel with a little money and Lola helped me to make it
+            real. With a small budget I visited 3 different cities in Spain and
+            that was awesome!
+          </p>
         </article>
       </section>
 

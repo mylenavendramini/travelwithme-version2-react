@@ -11,9 +11,9 @@ function Wraper() {
       <section id="wrapper">
         <section id="one" className="wrapper spotlight style1">
           <div className="inner">
-            <a href="/" className="image">
+            <span className="image">
               <img src="images/person3.jpg" alt="" />
-            </a>
+            </span>
             <div className="content">
               <h2 className="major">Hello! 👋</h2>
               <p>
@@ -24,16 +24,13 @@ function Wraper() {
                 hotel location and not even where to eat. It's time to relax and
                 enjoy!
               </p>
-              <Link onClick={scrollToTop} to={"/services"} className="special">
-                Know more
-              </Link>
             </div>
           </div>
         </section>
 
         <section id="two" className="wrapper alt spotlight style2">
           <div className="inner">
-            <a href="/" className="image">
+            <a href="/services" className="image">
               <img src="images/planner.jpg" alt="" />
             </a>
             <div className="content">
