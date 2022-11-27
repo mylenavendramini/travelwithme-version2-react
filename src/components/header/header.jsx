@@ -9,8 +9,12 @@ function Header() {
     <Fragment>
       <header id="header" className="alt">
         <nav>
-          <a href="/">Home</a>
-          <a href="/services">Services</a>
+          <Link onClick={scrollToTop} to={"/"}>
+            Home
+          </Link>
+          <Link onClick={scrollToTop} to={"/services"}>
+            Services
+          </Link>
         </nav>
       </header>
     </Fragment>
