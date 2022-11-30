@@ -1,3 +1,67 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h1 align="center">Travel With Me</h1>
+
+    
+  <a href="https://travelwithme-agency.netlify.app/">
+   <img src="https://i.ibb.co/MZ6Njy8/travelwithme-responsive.png" alt="Logo" width="80%" height="auto">
+  </a>
+  
+
+  <p align="center">
+    <a href="https://travelwithme-agency.netlify.app/">View Website</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This is the second version of Travel With Me. Initially, I created this site because of my passion for traveling. I always thought that offering the service of organizing a personalized trip was a good deal. So I created Travel With Me for a client who plans trips for all types of people.
+The first version of the site was made using simple HTML, CSS and JS. In this version, I chose to use React to be able to reuse components.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+HTML | CSS | JAVASCRIPT | REACT
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Mylena Vendramini
+https://mylenavendramini.com
+
+Project Link: https://travelwithme-agency.netlify.app/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
